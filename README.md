@@ -8,3 +8,18 @@
 ```
 git clone https://github.com/Huso-DA/kodluyoruzilkrepo.git
 ```
+
+# Usage
+## Projeyi klonladiktan sonra Visual Studio Code programinda aciniz.
+### Linux icin:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
+
+# Contributing
+## Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
