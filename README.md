@@ -2,7 +2,7 @@
 ## Bu repo [Kodluyoruz](https://kodluyoruz.org) Egitimi kapsaminda actigim ilk repo.
 ### Icerisinde bir adet README dosyasi ve bir adet de index.html dosyasi barindiriyor.
 
-![Lorem Picsum Gorsel](file:///C:/Users/nazim/OneDrive/Masaüstü/Readme.png)
+![Gorsel](file:///C:/Users/nazim/OneDrive/Masaüstü/READMEE.png)
 
 # Installation
 ## Oncelikle projeyi klonlayin. (Buraya sizin reponuzdan aldiginiz link gelecek.)
